@@ -5,7 +5,6 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Mecatrónica - Início</title>
-  <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-100 text-gray-800">
 
@@ -79,24 +78,7 @@
     </div>
   </section>
 
-  <!-- Informacoes -->
-  <section id="informacoes" class="py-16 bg-white">
-    <div class="container mx-auto px-4 max-w-xl">
-      <h2 class="text-3xl font-semibold mb-6 text-center">Contato</h2>
-      <form class="space-y-4">
-        <input type="text" placeholder="Salvador Eira" class="w-full p-3 rounded border" />
-           <input type="text" placeholder="10 PTM" class="w-full p-3 rounded border" />
-        <input type="email" placeholder="aluno28003@mtorga.edu.pt" class="w-full p-3 rounded border" />
-        <textarea placeholder="Como eu disse professor, tive 2 anos em um curso de Programacao de Sistemas Informaticos hahaha" class="w-full p-3 rounded border h-32"></textarea>
-        <button type="submit" class="bg-blue-900 text-white px-6 py-3 rounded hover:bg-blue-800">Enviar</button>
-      </form>
-    </div>
-  </section>
-
-  <!-- Footer -->
-  <footer class="bg-blue-900 text-white text-center p-4">
-    <p>&copy; 2025 Mecatrónica. Todos os direitos reservados.</p>
-  </footer>
+<h2 class="text-xl font-bold mb-2">Eu avisei que estive num curso de programacao de sistemas informaticos durante 2 anos hahaha </h2>
 
 </body>
 </html>
