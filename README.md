@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title> Mecatrónica - Início </title>
+  <h2 class="text-xl font-bold mb-2">Mecatrónica - Início</h2>
   <h4 class="text-xl font-bold mb-2">Salvador Eira 10 PTM </h4>
 </head>
 <body class="bg-gray-100 text-gray-800">
