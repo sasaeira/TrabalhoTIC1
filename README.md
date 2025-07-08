@@ -79,7 +79,7 @@
     </div>
   </section>
 
-<h4 class="text-xl font-bold mb-2">Eu avisei que estive num curso de programacao de sistemas informaticos durante 2 anos hahaha </h4>
+<h4 class="text-xl font-bold mb-2">Professor,eu ja tinha avisado que estive num curso de programacao de sistemas informaticos durante 2 anos hahahahaha </h4>
 
 </body>
 </html>
